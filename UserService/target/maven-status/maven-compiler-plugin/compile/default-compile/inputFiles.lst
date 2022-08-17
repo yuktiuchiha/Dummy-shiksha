@@ -1,0 +1,7 @@
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UserService/src/main/java/com/dummshiksha/UserService/Controller/UserController.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UserService/src/main/java/com/dummshiksha/UserService/UserServiceApplication.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UserService/src/main/java/loginDTO/loginRequest.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UserService/src/main/java/com/dummshiksha/UserService/Utils/UserFeignUtil.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UserService/src/main/java/com/dummshiksha/UserService/models/User.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UserService/src/main/java/com/dummshiksha/UserService/repository/UserRepository.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UserService/src/main/java/com/dummshiksha/UserService/Service/UserService.java

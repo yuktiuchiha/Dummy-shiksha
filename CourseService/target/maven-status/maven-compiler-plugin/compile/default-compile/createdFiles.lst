@@ -1,0 +1,6 @@
+com/dummshiksha/CourseService/controller/CourseController.class
+com/dummshiksha/CourseService/repository/CourseRepository.class
+com/dummshiksha/CourseService/Services/CourseService.class
+com/dummshiksha/CourseService/Utils/CourseFeignUtil.class
+com/dummshiksha/CourseService/CourseServiceApplication.class
+com/dummshiksha/CourseService/models/Course.class

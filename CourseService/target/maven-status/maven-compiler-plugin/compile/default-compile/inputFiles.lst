@@ -1,0 +1,6 @@
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/CourseService/src/main/java/com/dummshiksha/CourseService/models/Course.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/CourseService/src/main/java/com/dummshiksha/CourseService/repository/CourseRepository.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/CourseService/src/main/java/com/dummshiksha/CourseService/controller/CourseController.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/CourseService/src/main/java/com/dummshiksha/CourseService/Services/CourseService.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/CourseService/src/main/java/com/dummshiksha/CourseService/Utils/CourseFeignUtil.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/CourseService/src/main/java/com/dummshiksha/CourseService/CourseServiceApplication.java

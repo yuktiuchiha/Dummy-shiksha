@@ -1,0 +1,8 @@
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UniversityService/src/main/java/com/dummshiksha/UniversityService/models/University.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UniversityService/src/main/java/com/dummshiksha/UniversityService/Services/UniversityService.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UniversityService/src/main/java/com/dummshiksha/UniversityService/Utils/FeignServiceUtil.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UniversityService/src/main/java/com/dummshiksha/UniversityService/Utils/UniversityFeignUtil.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UniversityService/src/main/java/com/dummshiksha/UniversityService/UniversityServiceApplication.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UniversityService/src/main/java/com/dummshiksha/UniversityService/repository/UniversityRepository.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UniversityService/src/main/java/com/dummshiksha/UniversityService/controller/UniversityController.java
+/home/fa058925/Desktop/microservices_pratice/shikshaDummy/UniversityService/src/main/java/com/dummshiksha/UniversityService/models/Course.java

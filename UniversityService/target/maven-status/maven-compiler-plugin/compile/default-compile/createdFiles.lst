@@ -1,0 +1,8 @@
+com/dummshiksha/UniversityService/controller/UniversityController.class
+com/dummshiksha/UniversityService/UniversityServiceApplication.class
+com/dummshiksha/UniversityService/Utils/UniversityFeignUtil.class
+com/dummshiksha/UniversityService/repository/UniversityRepository.class
+com/dummshiksha/UniversityService/Services/UniversityService.class
+com/dummshiksha/UniversityService/models/Course.class
+com/dummshiksha/UniversityService/models/University.class
+com/dummshiksha/UniversityService/Utils/FeignServiceUtil.class
